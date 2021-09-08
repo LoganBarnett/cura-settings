@@ -5,7 +5,7 @@
       <brand>Hatchbox</brand>
       <material>PLA</material>
       <color>Green</color>
-      <label>PLA-fast</label>
+      <label>PLA-slow</label>
     </name>
     <version>7</version>
     <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
@@ -20,7 +20,7 @@
   <settings>
     <setting key="standby temperature">175.0</setting>
     <setting key="retraction amount">2.0</setting>
-    <setting key="print temperature">210.0</setting>
+    <setting key="print temperature">215.0</setting>
     <setting key="surface energy">100</setting>
     <setting key="retraction speed">65.0</setting>
     <setting key="adhesion tendency">0</setting>
@@ -37,6 +37,7 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="IMADE3D" product="IMADE3D JellyBOX" />
+      <setting key="print temperature">210.0</setting>
       <setting key="heated bed temperature">55</setting>
       <hotend id="0.4 mm">
         <setting key="hardware compatible">yes</setting>
@@ -64,7 +65,6 @@
       <machine_identifier manufacturer="Creality3D" product="creality_ender3" />
       <setting key="standby temperature">180.0</setting>
       <setting key="retraction amount">6.0</setting>
-      <setting key="print temperature">215.0</setting>
       <setting key="retraction speed">25.0</setting>
       <setting key="heated bed temperature">60.0</setting>
       <setting key="print cooling">100.0</setting>

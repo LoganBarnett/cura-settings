@@ -1,0 +1,10 @@
+#+title:     Cura Settings
+#+author:    Logan Barnett-Hoy
+#+email:     logustus@gmail.com
+#+date:      <2021-09-08 Wed>
+#+language:  en
+#+file_tags:
+#+tags:
+
+This repository contains my Ultimaker Cura settings, as well as some scripts for
+keeping the settings in use and current.
